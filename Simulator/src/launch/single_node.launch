@@ -1,0 +1,15 @@
+<launch>
+  <arg name="index" default="0" />
+  
+  <node name="sensor_simulator_$(arg index)" 
+        pkg="sensor_simulator" 
+        type="sensor_simulator_cuda" 
+        output="screen">
+    <param name="index" value="$(arg index)" />
+    <remap from="/sim/odom" to="quad_$(arg index)/sim/odom" />
+    <remap from="/depth_image" to="quad_$(arg index)/depth_image" />
+    <remap from="/collision" to="quad_$(arg index)/collision" /> 
+    <remap from="/lidar_points" to="quad_$(arg index)/lidar_points" />
+  </node>
+
+</launch>

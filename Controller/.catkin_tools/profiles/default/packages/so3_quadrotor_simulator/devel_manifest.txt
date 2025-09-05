@@ -1,0 +1,7 @@
+so3_quadrotor_simulator
+/home/uav/YOPO_simulator_ws/Controller/devel/.private/so3_quadrotor_simulator/cmake.lock /home/uav/YOPO_simulator_ws/Controller/devel/./cmake.lock
+/home/uav/YOPO_simulator_ws/Controller/devel/.private/so3_quadrotor_simulator/share/so3_quadrotor_simulator/cmake/so3_quadrotor_simulatorConfig-version.cmake /home/uav/YOPO_simulator_ws/Controller/devel/share/so3_quadrotor_simulator/cmake/so3_quadrotor_simulatorConfig-version.cmake
+/home/uav/YOPO_simulator_ws/Controller/devel/.private/so3_quadrotor_simulator/share/so3_quadrotor_simulator/cmake/so3_quadrotor_simulatorConfig.cmake /home/uav/YOPO_simulator_ws/Controller/devel/share/so3_quadrotor_simulator/cmake/so3_quadrotor_simulatorConfig.cmake
+/home/uav/YOPO_simulator_ws/Controller/devel/.private/so3_quadrotor_simulator/lib/libquadrotor_dynamics.so /home/uav/YOPO_simulator_ws/Controller/devel/lib/libquadrotor_dynamics.so
+/home/uav/YOPO_simulator_ws/Controller/devel/.private/so3_quadrotor_simulator/lib/pkgconfig/so3_quadrotor_simulator.pc /home/uav/YOPO_simulator_ws/Controller/devel/lib/pkgconfig/so3_quadrotor_simulator.pc
+/home/uav/YOPO_simulator_ws/Controller/devel/.private/so3_quadrotor_simulator/lib/so3_quadrotor_simulator/quadrotor_simulator_so3 /home/uav/YOPO_simulator_ws/Controller/devel/lib/so3_quadrotor_simulator/quadrotor_simulator_so3

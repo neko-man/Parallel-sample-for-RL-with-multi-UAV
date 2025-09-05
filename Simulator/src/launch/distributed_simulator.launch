@@ -1,0 +1,32 @@
+<launch>
+  <include file="$(find sensor_simulator)/launch/single_node.launch">
+    <arg name="index" value="0" />
+  </include>
+  <include file="$(find sensor_simulator)/launch/single_node.launch">
+    <arg name="index" value="1" />
+  </include>
+  <include file="$(find sensor_simulator)/launch/single_node.launch">
+    <arg name="index" value="2" />
+  </include>
+  <include file="$(find sensor_simulator)/launch/single_node.launch">
+    <arg name="index" value="3" />
+  </include>
+  <include file="$(find sensor_simulator)/launch/single_node.launch">
+    <arg name="index" value="4" />
+  </include>
+  <include file="$(find sensor_simulator)/launch/single_node.launch">
+    <arg name="index" value="5" />
+  </include>
+  <include file="$(find sensor_simulator)/launch/single_node.launch">
+    <arg name="index" value="6" />
+  </include>
+  <include file="$(find sensor_simulator)/launch/single_node.launch">
+    <arg name="index" value="7" />
+  </include>
+  <include file="$(find sensor_simulator)/launch/single_node.launch">
+    <arg name="index" value="8" />
+  </include>
+  <include file="$(find sensor_simulator)/launch/single_node.launch">
+    <arg name="index" value="9" />
+  </include>
+</launch>

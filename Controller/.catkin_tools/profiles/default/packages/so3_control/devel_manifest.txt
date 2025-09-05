@@ -1,0 +1,9 @@
+so3_control
+/home/uav/YOPO_simulator_ws/Controller/devel/.private/so3_control/cmake.lock /home/uav/YOPO_simulator_ws/Controller/devel/./cmake.lock
+/home/uav/YOPO_simulator_ws/Controller/devel/.private/so3_control/share/so3_control/cmake/so3_controlConfig-version.cmake /home/uav/YOPO_simulator_ws/Controller/devel/share/so3_control/cmake/so3_controlConfig-version.cmake
+/home/uav/YOPO_simulator_ws/Controller/devel/.private/so3_control/share/so3_control/cmake/so3_controlConfig.cmake /home/uav/YOPO_simulator_ws/Controller/devel/share/so3_control/cmake/so3_controlConfig.cmake
+/home/uav/YOPO_simulator_ws/Controller/devel/.private/so3_control/lib/libSO3Control.so /home/uav/YOPO_simulator_ws/Controller/devel/lib/libSO3Control.so
+/home/uav/YOPO_simulator_ws/Controller/devel/.private/so3_control/lib/libso3_control_nodelet.so /home/uav/YOPO_simulator_ws/Controller/devel/lib/libso3_control_nodelet.so
+/home/uav/YOPO_simulator_ws/Controller/devel/.private/so3_control/lib/pkgconfig/so3_control.pc /home/uav/YOPO_simulator_ws/Controller/devel/lib/pkgconfig/so3_control.pc
+/home/uav/YOPO_simulator_ws/Controller/devel/.private/so3_control/lib/so3_control/network_control_node /home/uav/YOPO_simulator_ws/Controller/devel/lib/so3_control/network_control_node
+/home/uav/YOPO_simulator_ws/Controller/devel/.private/so3_control/lib/so3_control/control_example /home/uav/YOPO_simulator_ws/Controller/devel/lib/so3_control/control_example
